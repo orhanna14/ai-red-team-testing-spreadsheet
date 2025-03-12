@@ -1,7 +1,3 @@
-Yes, putting this project on GitHub would be very helpful! It allows others to use, contribute, and improve the script. Below is a suggested `README.md` file for your GitHub repository. This README provides an overview of the project, instructions for use, and other relevant details.
-
----
-
 # Red Team Testing Spreadsheet Generator
 
 This Python script generates a structured Excel spreadsheet for red team testing of AI models. The spreadsheet includes multiple sheets for organizing test cases, model information, test results, vulnerability assessments, and more. It is designed to help teams systematically evaluate the robustness and security of AI models.
