@@ -21,29 +21,6 @@ Install the required libraries using pip:
 pip install pandas openpyxl
 ```
 
-### Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/red-team-testing-spreadsheet.git
-   cd red-team-testing-spreadsheet
-   ```
-
-2. Run the script:
-
-   ```bash
-   python create_spreadsheet.py
-   ```
-
-3. The script will generate an Excel file named `Red_Team_Testing_Spreadsheet.xlsx` in the same directory.
-
-### File Structure
-
-- **`create_spreadsheet.py`**: The main script that generates the Excel file.
-- **`Red_Team_Testing_Spreadsheet.xlsx`**: The output Excel file (generated after running the script).
-- **`README.md`**: This file, providing an overview and instructions.
-
 ### Spreadsheet Structure
 
 The generated Excel file contains the following sheets:
